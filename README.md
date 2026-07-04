@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyam19/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/bhavyam19/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2105-watering-plants-ii](https://github.com/bhavyam19/Leetcode/tree/master/2105-watering-plants-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bhavyam19/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2105-watering-plants-ii](https://github.com/bhavyam19/Leetcode/tree/master/2105-watering-plants-ii) |
+## Simulation
+|  |
+| ------- |
+| [2105-watering-plants-ii](https://github.com/bhavyam19/Leetcode/tree/master/2105-watering-plants-ii) |
 <!---LeetCode Topics End-->
