@@ -161,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bhavyam19/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bhavyam19/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/bhavyam19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/bhavyam19/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
